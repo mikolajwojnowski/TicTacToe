@@ -14,10 +14,8 @@ A Python implementation of the classic Tic-Tac-Toe game, featuring an AI opponen
 - [Features](#features)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ---
 
@@ -73,5 +71,5 @@ The Pygame library is used to:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/tictactoe-minimax.git
-   cd tictactoe-minimax
+   git clone 
+  
