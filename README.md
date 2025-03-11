@@ -71,5 +71,5 @@ The Pygame library is used to:
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/mikolajwojnowski/TicTacToe.git
   
